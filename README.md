@@ -18,6 +18,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+A polar diagram, or polar plot, is a graph that shows a sailboat's potential speed over a range of wind speeds and relative wind angles. It normally consists of the right side of a line chart with the radius representing the yacht speed and the angle representing the wind direction blowing from top to bottom. Several lines are normally drawn on the chart representing wind speed. To identify how fast a yacht could potentially go you select a particular wind speed curve and particular wind angle.
+
 ### Installation
 
 1. Clone the repo
