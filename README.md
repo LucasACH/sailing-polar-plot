@@ -38,6 +38,10 @@ To start the GUI run the following command.
 
 You can find an example file inside **example_data/** folder
 
+## Demo
+
+https://user-images.githubusercontent.com/73149577/130992327-ebb17175-c228-4c51-8664-5c9a8279fb1c.mp4
+
 <!-- CONTACT -->
 ## Contact
 
