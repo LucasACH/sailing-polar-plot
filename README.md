@@ -34,6 +34,7 @@ To start the GUI run the following command.
   python app.py
   ```
 
+You can find an example file inside **example_data/** folder
 
 <!-- CONTACT -->
 ## Contact
